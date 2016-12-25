@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--Device onyx-->
+  <project name="sarthakspiker/device_oneplus_onyx" path="device/oneplus/onyx" remote="github" revision="cm" />
+  <project name="Tesla-M-Devices/device_oppo_common" path="device/oppo/common" remote="github" revision="n7.1" />
+  <project name="CheckYourScreen/Arsenic.Kernel" path="kernel/oneplus/onyx" remote="github" revision="stable" />
+  <project name="BigTopKrazies/vendor_oneplus" path="vendor/oneplus" remote="github" revision="n7.1" />
+  <project name="TeamOrion-Devices/OTA" path="device/OTA" remote="github" revision="master" />
+  <project name="SlimRoms/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="ng7.1" />
+  <project name="SlimRoms/android_external_stlport" path="external/stlport" remote="github" revision="ng7.1" />
+</manifest>
